@@ -1,7 +1,7 @@
 
 # Contact Manager
 
-Contact Manager is a simple and efficient web application that allows users to manage their contacts easily. Whether you need to keep track of your personal contacts or manage your business connections, Contact Manager has got you covered.
+Contact Manager is a simple and efficient API that allows users to manage their contacts easily. Whether you need to keep track of your personal contacts or manage your business connections, Contact Manager has got you covered.
 
 
 
